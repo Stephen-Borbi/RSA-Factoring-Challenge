@@ -12,4 +12,3 @@ if __name__ == "__main__":
     for i in lpi:
         j = factors(i)
         print("{}={:d}*{}".format(i,i//j,j))
-
